@@ -1,5 +1,5 @@
 # Bootcamp - Amdocs JAVA Developer - DIO 🌟
-_Repositório para arquivo dos desafios realizados e de notas / observações sobre os cursos realizados no Bootcamp._
+_Repositório para arquivo dos desafios realizados e de notas / observações sobre os cursos integrantes do Bootcamp._
 <br>
 ___
 #### Cursos do Bootcamp:
