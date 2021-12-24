@@ -12,10 +12,10 @@ ___
 - [X] Projetos Ágeis com SCRUM.
 - [X] Desafio: Criando seu primeiro repositório.
 - [X] Mentoria #2.
-- [ ] Linux - Introdução.
-- [ ] Linux - Diretórios e comandos essenciais.
-- [ ] Linux - Fundamentos de redes.
-- [ ] Linux - Gerenciamento de pacotes.
+- [X] Linux - Introdução.
+- [X] Linux - Diretórios e comandos essenciais.
+- [X] Linux - Fundamentos de redes.
+- [X] Linux - Gerenciamento de pacotes.
 - [ ] Dominando IDEs Java.
 - [ ] Ecossistemas e documentação Java.
 - [ ] Configuração Java no Linux.
